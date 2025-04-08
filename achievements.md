@@ -20,7 +20,6 @@ Below are some badges I've earned from platforms like GitHub, Coursera, or other
 
 - **Data Science Orientation**  
   ![Data Science Orientation](/assets/images/data-science-orientation.png)  
-  Awarded upon finishing the **What is Data Science?** course by IBM on Coursera.
 
 
-Feel free to explore my [portfolio](/projects/) or [contact me](/contact/) for more details!
+Feel free to explore my [Resume](/resume/) or [contact me](/contact/) for more details!
