@@ -1,9 +1,66 @@
-title: "Sepehr's CV"
+# Site settings
+title: "Sepehr Nazeri's CV"
 description: "Showcasing my abilities, projects, and resume."
+baseurl: "" # Leave empty for root domain
+url: "https://sepehrnazeri.github.io"
+locale: "en-US"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Author
 author:
   name: "Sepehr Nazeri"
-  email: "sepehr.nazeri1999@gmail.com"
-  url: "https://sepehrnazeri.github.io"
-social:
-  github: "SepehrNazeri"
-  linkedin: "https://www.linkedin.com/in/sepehr-nazeri/"
+  avatar: "/assets/images/sepehr.jpg" # Optional: upload a photo
+  bio: "Passionate developer showcasing my skills and projects."
+  location: "Your City, Country"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sepehrnazeri21@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SepehrNazeri"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sepehr-nazeri/"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Analytics (optional)
+analytics:
+  provider: false # Set to "google-gtag" and add tracking_id if needed
