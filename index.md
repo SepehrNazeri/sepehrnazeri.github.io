@@ -10,13 +10,13 @@ header:
       url: "/projects/"
 excerpt: "Welcome to my portfolio! Explore my projects, skills, and achievements below."
 feature_row:
-  - image_path: /assets/images/project1.jpg
-    alt: "Project 1"
-    title: "Explore My Projects"
-    excerpt: "Check out my latest work in software development and design."
-    url: "/projects/"
-    btn_label: "View Portfolio"
-    btn_class: "btn--primary"
+#  - image_path: /assets/images/project1.jpg
+#    alt: "Project 1"
+#    title: "Explore My Projects"
+#    excerpt: "Check out my latest work in software development and design."
+#    url: "/projects/"
+#    btn_label: "View Portfolio"
+#    btn_class: "btn--primary"
   - image_path: /assets/images/resume.jpg
     alt: "Resume"
     title: "My Resume"
