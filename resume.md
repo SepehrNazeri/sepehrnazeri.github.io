@@ -3,5 +3,14 @@ title: "Resume"
 layout: single
 permalink: /resume/
 ---
-## My Resume
-View my full resume here: [Download PDF](/files/resume.pdf)
+
+Download my resume to learn more about my qualifications:
+
+[**Download Resume**](/files/resume.pdf)
+
+## Summary
+- **Experience**: [e.g., 3+ years in software engineering]
+- **Education**: [e.g., B.S. in Computer Science, University Name]
+- **Certifications**: [e.g., AWS Certified Developer]
+
+For a detailed overview, please download the PDF above.
