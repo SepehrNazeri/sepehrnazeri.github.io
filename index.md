@@ -5,9 +5,9 @@ permalink: /
 header:
   overlay_image: /assets/images/header-bg.jpg
   overlay_filter: 0.5
-  actions:
-    - label: "View Portfolio"
-      url: "/projects/"
+#  actions:
+#    - label: "View Portfolio"
+#      url: "/projects/"
 excerpt: "Welcome to my portfolio! Explore my projects, skills, and achievements below."
 feature_row:
 #  - image_path: /assets/images/project1.jpg
