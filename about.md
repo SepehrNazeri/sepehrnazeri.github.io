@@ -5,15 +5,15 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi, I'm Sepehr Nazeri! I'm a passionate [your profession, e.g., software developer] with expertise in [your skills, e.g., Python, web development]. This portfolio showcases my projects, skills, and professional journey.
+Hi, I'm Sepehr Nazeri! I'm a passionate Data Scientist with expertise in Python, Artificial Intelligence, and Data Science. This portfolio highlights my projects, skills, and professional journey.
 
 ## Skills
-- **Programming**: Python, JavaScript, Java
-- **Web Development**: HTML, CSS, React
-- **Tools**: Git, Docker, AWS
+- **Programming**: Python, AI, Data Science, Data Analysis
+- **Web Development**: HTML, CSS, NextJS, Django, DRF, Flask
+- **Tools**: Git, Docker, AWS, Metabase
 
 ## Background
-- **Education**: [Your degree, e.g., B.S. in Computer Science, University Name]
-- **Experience**: [Brief summary, e.g., 3 years developing web applications]
+- **Education**: [B.S. in Aerospace Engineering and Minor in Computer Science, Sharif University of Technology]
+- **Experience**: [Summary, 4 years developing web applications, software, AI application]
 
 Feel free to explore my [portfolio](/projects/) or [contact me](/contact/)!
