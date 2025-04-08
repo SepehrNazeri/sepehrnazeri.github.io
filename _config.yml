@@ -1,18 +1,9 @@
-# Use the remote_theme setting to point to minimal-mistakes on GitHub
-remote_theme: minimal-mistakes/minimal-mistakes@4.29.0
-plugins:
-  - jekyll-remote-theme
-
-title: "Sepehr Nazeri"
+title: "Sepehr's CV"
+description: "Showcasing my abilities, projects, and resume."
 author:
-  name: "Sepehr"
+  name: "Sepehr Nazeri"
   email: "sepehrnazeri21@gmail.com"
-description: "A portfolio website showcasing my abilities, projects, and resume."
-baseurl: "" # leave empty for user sites
-url: "https://sepehrnazeri.github.io"
-
-# Minimal Mistakes-specific settings
-minimal_mistakes_skin: "one-page"  # or any available skin you prefer
-header:
-  overlay: true
-  caption: "A Digital Showcase of My Work"
+  url: "https://sepehrnazeri.github.io"
+social:
+  github: "SepehrNazeri"
+  linkedin: "https://www.linkedin.com/in/sepehr-nazeri/"
